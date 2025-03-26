@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sY44klTtVCIabfJS/3VzVzJMzPbsuBdbkro0s/pCSM3NUc0yHvZo1bUjq5hKXlU1/CZvv5VGqdLTBAnsvrbeXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brenda\\Downloads\\Sistema-Backend\\sistema-de-votacao\\sistema-de-votacao\\sistema-de-votacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brenda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Brenda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Brenda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Brenda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
